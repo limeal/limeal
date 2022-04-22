@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 2nd yeard graduated student at Epitech (Promo 2025)
+
 <!--
 **MrStudEpi/MrStudEpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
