@@ -1,18 +1,12 @@
-### Hi there 👋
 
-- 🔭 2nd yeard graduated student at Epitech (Promo 2025)
+<h1 align="center"> <img src="https://cliply.co/wp-content/uploads/2021/08/472108440_HELLO_STICKER_400px.gif" alt="Welcome"> <br>I'm <a href="https://github.com/Paul-Marie">Paul</a> - aka MrStudEpi. Welcome to my GitHub! 🤗</h1>
 
-<!--
-**MrStudEpi/MrStudEpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> I'm an 3rd year graduated Student at Epitech :) </h2>
 
-Here are some ideas to get you started:
+- 🚧 Current Project: (WIP)
+- 📍 Previous work: (WIP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![MrStudEpi's stats](https://github-readme-stats.vercel.app/api?username=MrStudEpi&show_icons=true&theme=transparent)
+![MrStudEpi's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrStudEpi&hide=html,java&theme=transparent&layout=compact)
+
+<h2> Connect with me <img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/HandShake.gif" height="32px"> </h2>
