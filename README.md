@@ -6,7 +6,5 @@
 - 🚧 Current Project: (WIP)
 - 📍 Previous work: (WIP)
 
-![MrStudEpi's stats](https://github-readme-stats.vercel.app/api?username=MrStudEpi&show_icons=true&theme=transparent)
+![MrStudEpi's stats](https://github-readme-stats.vercel.app/api?username=MrStudEpi&count_private=true&show_icons=true&theme=transparent)
 ![MrStudEpi's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrStudEpi&hide=html,java&theme=transparent&layout=compact)
-
-<h2> Connect with me <img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/HandShake.gif" height="32px"> </h2>
