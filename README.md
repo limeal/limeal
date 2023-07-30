@@ -3,5 +3,5 @@
 
 <h2> I'm an 3rd year graduated Student at Epitech :) </h2>
 
-![MrStudEpi's stats](https://github-readme-stats.vercel.app/api?username=MrStudEpi&count_private=true&show_icons=true&theme=transparent)
-![MrStudEpi's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrStudEpi&hide=html,java&theme=transparent&layout=compact)
+![limeal's stats](https://github-readme-stats.vercel.app/api?username=limeal&count_private=true&show_icons=true&theme=transparent)
+![limeal's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=limeal&hide=html,java&theme=transparent&layout=compact)
