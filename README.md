@@ -1,9 +1,22 @@
+## About Me
+- 🌱 I'm currently learning: Computer Graphics, Machine Learning, Data mining and Operating Systems.
+- 👯 I’m looking to collaborate on **Open-Source** project(s), that seems interesting.
+- 💬 Ask me about anything related to computer science.
+- 📫 How to reach me: email, discord or contact form on my website
+- ⚡ Fun fact: I like lime.
 
-<h1 align="center"> <img src="https://media.tenor.com/7don4YuLeQkAAAAM/lime-dancing-lime.gif" alt="Welcome"> <br>I'm <a href="https://github.com/limeal">Paul</a> - aka limeal. Welcome to my GitHub! 🤗</h1>
+## Skills
+- Programming Languages: 🐍 Python, ☕ Java, C, C++, Haskell, Golang, Javascript/Typescript, ... (see on my website)
+- Technologies: Visual Studio Code, Postman, Databases, and so on...
+- Frameworks: Next.Js, React, Fiber (Golang), Strapi, Wordpress, Drupal, Prestashop, Vue.JS, ...
 
-<h2>I'm an 4th year graduated Student at Epitech :)</h2>
-<p>Favorite Langage: <strong>Golang</strong></p>
-<p>To know more about me visit my website: https://limeal.fr</p>
+## Projects
+- [Area](https://github.com/limeal/area): Connect services together like IFTTT, frontend & backend + oauth2
+- [Jigot](https://github.com/limeal/jigot): My own programming language
+- [Project Name](link): Brief description.
 
-![limeal's stats](https://github-readme-stats.vercel.app/api?username=limeal&count_private=true&show_icons=true&theme=transparent)
-![limeal's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=limeal&hide=html,java&theme=transparent&layout=compact)
+## Connect with Me
+- [Website](https://limeal.fr)
+- [Email](contact@limeal.mozmail.com)
+
+Feel free to explore my repositories and reach out to collaborate or discuss anything! 😊
