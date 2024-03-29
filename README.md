@@ -13,7 +13,6 @@
 ## Projects
 - [Area](https://github.com/limeal/area): Connect services together like IFTTT, frontend & backend + oauth2
 - [Jigot](https://github.com/limeal/jigot): My own programming language
-- [Project Name](link): Brief description.
 
 ## Connect with Me
 - [Website](https://limeal.fr)
