@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/limeal"><img src="https://api.daily.dev/devcards/v2/vKR2UlAcYciyPNdyM0UHQ.png?r=aep&type=default" width="356" alt="Paul's Dev Card"/></a>
+
 ## About Me
 - 🌱 I'm currently learning: Computer Graphics, Machine Learning, Data mining and Operating Systems.
 - 👯 I’m looking to collaborate on **Open-Source** project(s), that seems interesting.
