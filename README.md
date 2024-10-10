@@ -1,7 +1,3 @@
-<a href="https://app.daily.dev/limeal">
-  <img src="https://api.daily.dev/devcards/v2/vKR2UlAcYciyPNdyM0UHQ.png?r=aep&type=wide" width="652" alt="Paul's Dev Card" />
-</a>
-
 # Welcome on Board
 
 I am a fifth-year Computer Science student at Epitech, with a passion for Computer Graphics, Machine Learning, Data Mining, and Full Stack Engineering.
@@ -24,5 +20,11 @@ More links:
 
 - [Website](https://limeal.fr)
 - [Email](mailto:contact@limeal.mozmail.com)
+
+My daily.dev member profile:
+
+<a href="https://app.daily.dev/limeal">
+  <img src="https://api.daily.dev/devcards/v2/vKR2UlAcYciyPNdyM0UHQ.png?r=aep&type=wide" width="652" alt="Paul's Dev Card" />
+</a>
 
 Feel free to explore my repositories, and don't hesitate to reach out to collaborate or discuss anything! 😊
