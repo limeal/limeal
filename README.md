@@ -21,10 +21,4 @@ More links:
 - [Website](https://limeal.fr)
 - [Email](mailto:contact@limeal.mozmail.com)
 
-My daily.dev member profile:
-
-<a href="https://app.daily.dev/limeal">
-  <img src="https://api.daily.dev/devcards/v2/vKR2UlAcYciyPNdyM0UHQ.png?r=aep&type=wide" width="652" alt="Paul's Dev Card" />
-</a>
-
 Feel free to explore my repositories, and don't hesitate to reach out to collaborate or discuss anything! 😊
